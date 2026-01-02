@@ -21,7 +21,6 @@ avoid **CORS** issues entirely.
 - [Troubleshooting](#troubleshooting)
 - [Optional packaging (PyInstaller)](#optional-packaging-pyinstaller)
 - [Operational notes](#operational-notes)
-- [License](#license)
 
 ---
 
